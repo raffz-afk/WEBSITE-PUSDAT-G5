@@ -11,7 +11,7 @@
 [![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen?style=flat-square)](https://github.com/raffz-afk/WEBSITE_PUSDAT_LAGI/commits/main)
 [![License](https://img.shields.io/badge/License-Private-red?style=flat-square)]()
 [![Status](https://img.shields.io/badge/Status-Production-blue?style=flat-square)
-[![Platform](https://img.shields.io/badge/Platform-Web_%2B_WhatsApp-purple?style=flat-square)]()
+[![Platform](https://img.shields.io/badge/Platform-Web_%2B_WhatsApp-purple?style=flat-square)]
 
 </div>
 
