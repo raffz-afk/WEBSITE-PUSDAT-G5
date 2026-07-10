@@ -11,7 +11,7 @@
 
 [![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen?style=flat-square)](https://github.com/raffz-afk/WEBSITE_PUSDAT_LAGI/commits/main)
 [![License](https://img.shields.io/badge/License-Private-red?style=flat-square)]()
-[![Status](https://img.shields.io/badge/Status-Production-blue?style=flat-square)](https://pusdat.vercel.app)
+[![Status](https://img.shields.io/badge/Status-Production-blue?style=flat-square)
 [![Platform](https://img.shields.io/badge/Platform-Web_%2B_WhatsApp-purple?style=flat-square)]()
 
 </div>
@@ -172,7 +172,7 @@ npm start
 
 ### Setelah Aplikasi Berjalan
 
-1. **Web Dashboard** — akses via `http://localhost:PORT` atau URL production di [pusdat.vercel.app](https://pusdat.vercel.app).
+1. **Web Dashboard** — akses via `http://localhost:PORT`.
 2. **WhatsApp Bot** — scan QR code yang muncul di terminal untuk pairing perangkat.
 3. Untuk panduan konfigurasi lebih lanjut, silakan baca:
    - 📘 [`CARA_PASANG.md`](./CARA_PASANG.md) — panduan instalasi detail
