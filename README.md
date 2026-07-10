@@ -8,7 +8,7 @@
 [![Express](https://img.shields.io/badge/Express.js-4.x-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Baileys-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/WhiskeySockets/Baileys)
 
-[![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen?style=flat-square)](https://github.com/raffz-afk/WEBSITE_PUSDAT_LAGI/commits/main)
+[![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen?style=flat-square)](https://github.com/raffz-afk/WEBSITE-PUSDAT-G5/commits/main)
 [![License](https://img.shields.io/badge/License-Private-red?style=flat-square)]()
 [![Platform](https://img.shields.io/badge/Platform-Web_%2B_WhatsApp-purple?style=flat-square)]()
 
@@ -154,8 +154,8 @@ Sistem ini dibangun dengan arsitektur **modular monorepo** yang memisahkan conce
 
 ```bash
 # 1. Clone repositori
-git clone https://github.com/raffz-afk/WEBSITE_PUSDAT_LAGI.git
-cd WEBSITE_PUSDAT_LAGI
+git clone https://github.com/raffz-afk/WEBSITE-PUSDAT-G5.git
+cd WEBSITE-PUSDAT-G5
 
 # 2. Install dependencies
 npm install
