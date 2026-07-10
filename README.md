@@ -7,7 +7,6 @@
 [![Node.js](https://img.shields.io/badge/Node.js-%3E%3D18.x-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express.js-4.x-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Baileys-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/WhiskeySockets/Baileys)
-[![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pusdat.vercel.app)
 
 [![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen?style=flat-square)](https://github.com/raffz-afk/WEBSITE_PUSDAT_LAGI/commits/main)
 [![License](https://img.shields.io/badge/License-Private-red?style=flat-square)]()
@@ -137,7 +136,7 @@ Sistem ini dibangun dengan arsitektur **modular monorepo** yang memisahkan conce
 | **Runtime** | Node.js (v18+) |
 | **Web Framework** | Express.js |
 | **WhatsApp API** | Baileys (Multi-Device WebSocket) |
-| **Deployment** | Vercel (Web) + Self-hosted (Bot) |
+| **Deployment** | internal Website + Self-hosted (Bot) |
 | **Storage** | File-based JSON + Optional DB adapter |
 
 ---
