@@ -1,0 +1,28 @@
+{
+  "_keterangan": "Daftar Program Kerja BULANAN. Akan dipicu reminder reset setiap awal bulan Hijriyah. Edit array 'list' untuk menyesuaikan dengan target bulan berjalan.",
+  "bulan_hijriyah": "Syawal 1447 H",
+  "bulan_masehi": "April 2026",
+  "last_updated": "2026-04-01",
+  "perlu_diperbarui": true,
+  "list": [
+    {
+      "no": 1,
+      "judul": "Rekap Absensi Guru Bulan Berjalan",
+      "target": "Laporan rekap absensi siap setiap akhir bulan",
+      "pic": "Tim Pusdat"
+    },
+    {
+      "no": 2,
+      "judul": "Update Stambuk Santri Baru",
+      "target": "Sinkronisasi data santri masuk/keluar",
+      "pic": "Staf Piket Harian"
+    },
+    {
+      "no": 3,
+      "judul": "Cek Integritas Database Bulanan",
+      "target": "Verifikasi tidak ada data corrupt / duplikat",
+      "pic": "Tim Pusdat"
+    }
+  ],
+  "hijriyah_baru": "Muharram 1448 H"
+}

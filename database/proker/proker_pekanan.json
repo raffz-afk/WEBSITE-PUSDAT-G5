@@ -1,0 +1,27 @@
+{
+  "_keterangan": "Daftar Program Kerja PEKANAN (mingguan). Bisa diedit langsung dari WhatsApp via command .editproker pekanan ... (khusus owner). Reset otomatis tiap awal pekan (Senin) jika perlu_diperbarui = true.",
+  "pekan_label": "Pekan ke-1 Syawal 1447 H",
+  "tanggal_mulai": "2026-04-25",
+  "last_updated": "2026-04-25",
+  "perlu_diperbarui": false,
+  "list": [
+    {
+      "no": 1,
+      "judul": "Backup Mingguan Database Santri",
+      "target": "Backup ke cloud setiap Jumat",
+      "pic": "Staf Piket Hari Jumat"
+    },
+    {
+      "no": 2,
+      "judul": "Audit Pekanan Berkas Baru",
+      "target": "Cek berkas santri yang baru daftar pekan ini",
+      "pic": "Tim Pusdat"
+    },
+    {
+      "no": 3,
+      "judul": "Rekap Absensi Pekanan",
+      "target": "Laporan rekap absensi guru disusun setiap Sabtu malam",
+      "pic": "Staf Piket Hari Sabtu"
+    }
+  ]
+}

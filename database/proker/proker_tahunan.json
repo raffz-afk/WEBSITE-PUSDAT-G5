@@ -1,0 +1,29 @@
+{
+  "_keterangan": "Daftar Program Kerja TAHUNAN. Edit array 'list' untuk menambah/mengubah/menghapus proker. File ini akan disisipkan ke broadcast pagi setiap hari.",
+  "tahun_hijriyah": "1447 H",
+  "tahun_masehi": "2026",
+  "last_updated": "2026-04-01",
+  "list": [
+    {
+      "no": 1,
+      "judul": "Digitalisasi Database Santri & Guru Kampus 5",
+      "target": "Selesai migrasi 100% data ke sistem baru",
+      "deadline": "Awal Tahun Ajaran 1447 H",
+      "status": "berjalan"
+    },
+    {
+      "no": 2,
+      "judul": "Backup Otomatis Mingguan Server Pusdat",
+      "target": "Sistem backup ke cloud aktif & teruji setiap pekan",
+      "deadline": "Tiap Awal Bulan",
+      "status": "berjalan"
+    },
+    {
+      "no": 3,
+      "judul": "Audit Berkas & Angket Santri",
+      "target": "Audit menyeluruh setiap akhir semester",
+      "deadline": "Akhir Semester",
+      "status": "berjalan"
+    }
+  ]
+}

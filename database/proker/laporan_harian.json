@@ -1,0 +1,1815 @@
+{
+  "_keterangan": "Database laporan harian otomatis. Diisi oleh bot ketika staf piket mengirim laporan. Key = tanggal (YYYY-MM-DD). Untuk rekap rapi, lihat juga rekap CSV/XLSX yang di-generate bot.",
+  "data": {
+    "2026-04-25": {
+      "tanggal": "2026-04-25",
+      "hari": "Sabtu",
+      "staf_piket": {
+        "id": "hafiy",
+        "nama": "Al-Ustadz Hafiy",
+        "wa": "6288215165490"
+      },
+      "proker_pagi": {
+        "submitted": false,
+        "submitted_at": null,
+        "isi": null
+      },
+      "laporan_bakdiyah": {
+        "submitted": false,
+        "submitted_at": null,
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": null,
+        "stopped_at": null,
+        "total_kirim": 0
+      }
+    },
+    "2026-04-26": {
+      "tanggal": "2026-04-26",
+      "hari": "Ahad",
+      "staf_piket": {
+        "id": "ichsan",
+        "nama": "Al-Ustadz Ichsan",
+        "wa": "628137273366"
+      },
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-04-26 07:55:46",
+        "isi": "(input angket biodata santri baru dan kelas 6)"
+      },
+      "laporan_bakdiyah": {
+        "submitted": false,
+        "submitted_at": null,
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": "2026-04-26 07:30:00",
+        "stopped_at": "2026-04-26 07:55:46",
+        "total_kirim": 52
+      }
+    },
+    "2026-04-27": {
+      "tanggal": "2026-04-27",
+      "hari": "Senin",
+      "staf_piket": {
+        "id": "raffal",
+        "nama": "Al-Ustadz Raffal",
+        "wa": "6281943567230"
+      },
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-04-27 07:53:31",
+        "isi": "libur"
+      },
+      "laporan_bakdiyah": {
+        "submitted": false,
+        "submitted_at": null,
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": "2026-04-27 07:30:00",
+        "stopped_at": "2026-04-27 07:53:31",
+        "total_kirim": 48
+      }
+    },
+    "2026-04-28": {
+      "tanggal": "2026-04-28",
+      "hari": "Selasa",
+      "staf_piket": {
+        "id": "hafiy",
+        "nama": "Al-Ustadz Hafiy",
+        "wa": "6288215165490"
+      },
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-04-28 07:55:40",
+        "isi": "(input angket biodata santri kelas 6)"
+      },
+      "laporan_bakdiyah": {
+        "submitted": false,
+        "submitted_at": null,
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": "2026-04-28 07:30:00",
+        "stopped_at": "2026-04-28 07:55:40",
+        "total_kirim": 52
+      }
+    },
+    "2026-04-29": {
+      "tanggal": "2026-04-29",
+      "hari": "Rabu",
+      "staf_piket": {
+        "id": "raffal",
+        "nama": "Al-Ustadz Raffal",
+        "wa": "6281943567230"
+      },
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-04-29 09:22:31",
+        "isi": "libur"
+      },
+      "laporan_bakdiyah": {
+        "submitted": false,
+        "submitted_at": null,
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": "2026-04-29 07:30:00",
+        "stopped_at": "2026-04-29 09:22:31",
+        "total_kirim": 225
+      }
+    },
+    "2026-04-30": {
+      "tanggal": "2026-04-30",
+      "hari": "Kamis",
+      "staf_piket": {
+        "id": "ichsan",
+        "nama": "Al-Ustadz Ichsan",
+        "wa": "628137273366"
+      },
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-04-30 07:02:18",
+        "isi": "libur"
+      },
+      "laporan_bakdiyah": {
+        "submitted": false,
+        "submitted_at": null,
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": null,
+        "stopped_at": null,
+        "total_kirim": 0
+      }
+    },
+    "2026-05-01": {
+      "tanggal": "2026-05-01",
+      "hari": "Jumat",
+      "staf_piket": null,
+      "proker_pagi": {
+        "submitted": false,
+        "submitted_at": null,
+        "isi": null
+      },
+      "laporan_bakdiyah": {
+        "submitted": false,
+        "submitted_at": null,
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": null,
+        "stopped_at": null,
+        "total_kirim": 0
+      }
+    },
+    "2026-05-02": {
+      "tanggal": "2026-05-02",
+      "hari": "Sabtu",
+      "staf_piket": {
+        "id": "hafiy",
+        "nama": "Al-Ustadz Hafiy",
+        "wa": "6288215165490"
+      },
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-05-02 07:32:40",
+        "isi": "input angket kelas 6"
+      },
+      "laporan_bakdiyah": {
+        "submitted": true,
+        "submitted_at": "2026-05-02 13:21:45",
+        "selesai": [
+          "(HARI LIBUR — tidak ada kegiatan)"
+        ],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": "2026-05-02 07:30:00",
+        "stopped_at": "2026-05-02 07:32:40",
+        "total_kirim": 6
+      }
+    },
+    "2026-05-03": {
+      "tanggal": "2026-05-03",
+      "hari": "Ahad",
+      "staf_piket": {
+        "id": "ichsan",
+        "nama": "Al-Ustadz Ichsan",
+        "wa": "628137273366"
+      },
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-05-03 07:51:01",
+        "isi": "(input data santri baru)"
+      },
+      "laporan_bakdiyah": {
+        "submitted": true,
+        "submitted_at": "2026-05-03 12:03:15",
+        "selesai": [
+          "libur",
+          "# selesai",
+          "# belum",
+          "belum selesia input data santri baru"
+        ],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": "2026-05-03 07:30:00",
+        "stopped_at": "2026-05-03 07:51:01",
+        "total_kirim": 43
+      }
+    },
+    "2026-05-04": {
+      "tanggal": "2026-05-04",
+      "hari": "Senin",
+      "staf_piket": {
+        "id": "raffal",
+        "nama": "Al-Ustadz Raffal",
+        "wa": "6281943567230"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-05-04 08:12:42",
+        "isi": "benerin bug bot wa pusdat, input angket kelas 6"
+      },
+      "laporan_bakdiyah": {
+        "submitted": true,
+        "submitted_at": "2026-05-04 12:01:32",
+        "selesai": [
+          ".lapharian"
+        ],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": null,
+        "stopped_at": null,
+        "total_kirim": 0
+      }
+    },
+    "2026-05-05": {
+      "tanggal": "2026-05-05",
+      "hari": "Selasa",
+      "staf_piket": {
+        "id": "hafiy",
+        "nama": "Al-Ustadz Hafiy",
+        "wa": "6288215165490"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-05-05 07:01:45",
+        "isi": "input angket kelas 6"
+      },
+      "laporan_bakdiyah": {
+        "submitted": true,
+        "submitted_at": "2026-05-05 12:05:05",
+        "selesai": [
+          ".lapharian"
+        ],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": null,
+        "stopped_at": null,
+        "total_kirim": 0
+      }
+    },
+    "2026-05-06": {
+      "tanggal": "2026-05-06",
+      "hari": "Rabu",
+      "staf_piket": {
+        "id": "raffal",
+        "nama": "Al-Ustadz Raffal",
+        "wa": "6281943567230"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-05-06 07:05:07",
+        "isi": "memasukkan berkas santri yang masih di bercerceran di luar map berkas"
+      },
+      "laporan_bakdiyah": {
+        "submitted": true,
+        "submitted_at": "2026-05-06 12:02:46",
+        "selesai": [
+          "mengklsifikasikan santri kelas 6 yang mangkulan - kelas 6B"
+        ],
+        "belum_selesai": [
+          "memasukkan berkas santri yang berceceran"
+        ]
+      },
+      "spam_log": {
+        "started_at": null,
+        "stopped_at": null,
+        "total_kirim": 0
+      }
+    },
+    "2026-05-07": {
+      "tanggal": "2026-05-07",
+      "hari": "Kamis",
+      "staf_piket": {
+        "id": "ichsan",
+        "nama": "Al-Ustadz Ichsan",
+        "wa": "628137273366"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-05-07 07:39:47",
+        "isi": "hari ini\n1. input data santri pindahan dan berkasnya\n2. input data santri baru"
+      },
+      "laporan_bakdiyah": {
+        "submitted": true,
+        "submitted_at": "2026-05-07 12:41:26",
+        "selesai": [],
+        "belum_selesai": [
+          "Input data santri baru"
+        ]
+      },
+      "spam_log": {
+        "started_at": "2026-05-07 07:30:00",
+        "stopped_at": "2026-05-07 07:39:47",
+        "total_kirim": 20
+      }
+    },
+    "2026-05-09": {
+      "tanggal": "2026-05-09",
+      "hari": "Sabtu",
+      "staf_piket": {
+        "id": "hafiy",
+        "nama": "Al-Ustadz Hafiy",
+        "wa": "6288215165490"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-05-09 07:20:56",
+        "isi": "memasukan berkas santri yang berceceran, cek stambuk santri baru"
+      },
+      "laporan_bakdiyah": {
+        "submitted": true,
+        "submitted_at": "2026-05-09 12:04:38",
+        "selesai": [],
+        "belum_selesai": [
+          "memasukkan berkas santri yang berceceran"
+        ]
+      },
+      "spam_log": {
+        "started_at": null,
+        "stopped_at": null,
+        "total_kirim": 0
+      }
+    },
+    "2026-05-10": {
+      "tanggal": "2026-05-10",
+      "hari": "Ahad",
+      "staf_piket": {
+        "id": "ichsan",
+        "nama": "Al-Ustadz Ichsan",
+        "wa": "628137273366"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-05-10 07:45:32",
+        "isi": "hari ini\n1. Mengelompokkan angket santri baru.\n2. Menginput data santri baru"
+      },
+      "laporan_bakdiyah": {
+        "submitted": true,
+        "submitted_at": "2026-05-10 12:02:34",
+        "selesai": [],
+        "belum_selesai": [
+          "menginput data santri baru"
+        ]
+      },
+      "spam_log": {
+        "started_at": "2026-05-10 07:30:00",
+        "stopped_at": "2026-05-10 07:45:32",
+        "total_kirim": 32
+      }
+    },
+    "2026-05-11": {
+      "tanggal": "2026-05-11",
+      "hari": "Senin",
+      "staf_piket": {
+        "id": "raffal",
+        "nama": "Al-Ustadz Raffal",
+        "wa": "6281943567230"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-05-11 07:31:14",
+        "isi": "input data kelas 6"
+      },
+      "laporan_bakdiyah": {
+        "submitted": false,
+        "submitted_at": null,
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": "2026-05-11 07:30:00",
+        "stopped_at": "2026-05-11 07:31:14",
+        "total_kirim": 3
+      }
+    },
+    "2026-05-12": {
+      "tanggal": "2026-05-12",
+      "hari": "Selasa",
+      "staf_piket": {
+        "id": "hafiy",
+        "nama": "Al-Ustadz Hafiy",
+        "wa": "6288215165490"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-05-12 07:32:36",
+        "isi": "input data kelas 6, tandzif am"
+      },
+      "laporan_bakdiyah": {
+        "submitted": true,
+        "submitted_at": "2026-05-12 12:00:35",
+        "selesai": [
+          "belum selesai input data kelas 6"
+        ],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": null,
+        "stopped_at": null,
+        "total_kirim": 0
+      }
+    },
+    "2026-05-13": {
+      "tanggal": "2026-05-13",
+      "hari": "Rabu",
+      "staf_piket": {
+        "id": "raffal",
+        "nama": "Al-Ustadz Raffal",
+        "wa": "6281943567230"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-05-13 07:30:37",
+        "isi": "1. Bikin stiker arsip untuk yang belum punya"
+      },
+      "laporan_bakdiyah": {
+        "submitted": true,
+        "submitted_at": "2026-05-13 12:02:23",
+        "selesai": [
+          "Telah menempelkan stiker arsip santri kelas 6 yang belum ada 2. Mencetak stiker arsip santri baru"
+        ],
+        "belum_selesai": [
+          "Belum memotong dan menempelkan stiker arsip santri baru 2. Belum memasukkan biodata angket santri kelas 6 pindahan"
+        ]
+      },
+      "spam_log": {
+        "started_at": "2026-05-13 07:30:00",
+        "stopped_at": "2026-05-13 07:30:37",
+        "total_kirim": 2
+      }
+    },
+    "2026-05-14": {
+      "tanggal": "2026-05-14",
+      "hari": "Kamis",
+      "staf_piket": {
+        "id": "ichsan",
+        "nama": "Al-Ustadz Ichsan",
+        "wa": "628137273366"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-05-14 07:39:53",
+        "isi": "1. Mengklasifikasikan angket data santri baru"
+      },
+      "laporan_bakdiyah": {
+        "submitted": false,
+        "submitted_at": null,
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": null,
+        "stopped_at": null,
+        "total_kirim": 0
+      }
+    },
+    "2026-05-16": {
+      "tanggal": "2026-05-16",
+      "hari": "Sabtu",
+      "staf_piket": {
+        "id": "hafiy",
+        "nama": "Al-Ustadz Hafiy",
+        "wa": "6288215165490"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-05-16 07:14:47",
+        "isi": "memotong dan menempelkan stiker arsip santri baru, Input biodata angket santri kelas 6 pindahan"
+      },
+      "laporan_bakdiyah": {
+        "submitted": true,
+        "submitted_at": "2026-05-16 12:03:08",
+        "selesai": [
+          "Telah memotong dan menempelkan arsip santri baru"
+        ],
+        "belum_selesai": [
+          "Belum input biodata angket santri kelas 6 pindahan"
+        ]
+      },
+      "spam_log": {
+        "started_at": null,
+        "stopped_at": null,
+        "total_kirim": 0
+      }
+    },
+    "2026-05-17": {
+      "tanggal": "2026-05-17",
+      "hari": "Ahad",
+      "staf_piket": {
+        "id": "ichsan",
+        "nama": "Al-Ustadz Ichsan",
+        "wa": "628137273366"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-05-17 07:01:30",
+        "isi": "merekap angket data santri baru"
+      },
+      "laporan_bakdiyah": {
+        "submitted": false,
+        "submitted_at": null,
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": null,
+        "stopped_at": null,
+        "total_kirim": 0
+      }
+    },
+    "2026-05-18": {
+      "tanggal": "2026-05-18",
+      "hari": "Senin",
+      "staf_piket": {
+        "id": "raffal",
+        "nama": "Al-Ustadz Raffal",
+        "wa": "6281943567230"
+      },
+      "status": "libur",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-05-18 07:07:36",
+        "isi": "(LIBUR — tidak ada agenda hari ini)"
+      },
+      "laporan_bakdiyah": {
+        "submitted": true,
+        "submitted_at": "2026-05-18 07:07:36",
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": null,
+        "stopped_at": null,
+        "total_kirim": 0
+      },
+      "libur_via": "lapharian"
+    },
+    "2026-05-19": {
+      "tanggal": "2026-05-19",
+      "hari": "Selasa",
+      "staf_piket": {
+        "id": "hafiy",
+        "nama": "Al-Ustadz Hafiy",
+        "wa": "6288215165490"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-05-19 06:59:31",
+        "isi": "memasukkan angket santri baru ke map arsip, input biodata angket santri kelas 6 pindahan"
+      },
+      "laporan_bakdiyah": {
+        "submitted": true,
+        "submitted_at": "2026-05-19 12:03:21",
+        "selesai": [
+          "Telah memasukkan angket santri baru ke map arsip"
+        ],
+        "belum_selesai": [
+          "Belum selesai input biodata angket kelas 6 pindahan"
+        ]
+      },
+      "spam_log": {
+        "started_at": null,
+        "stopped_at": null,
+        "total_kirim": 0
+      }
+    },
+    "2026-05-20": {
+      "tanggal": "2026-05-20",
+      "hari": "Rabu",
+      "staf_piket": {
+        "id": "raffal",
+        "nama": "Al-Ustadz Raffal",
+        "wa": "6281943567230"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-05-20 07:27:26",
+        "isi": "memasukkan arsip berkas santri yang masih di luar bantex dan menginput data santri kelas 6 pindahan"
+      },
+      "laporan_bakdiyah": {
+        "submitted": true,
+        "submitted_at": "2026-05-20 12:09:16",
+        "selesai": [],
+        "belum_selesai": [
+          "menginput data santri kelas 6 pindahan"
+        ]
+      },
+      "spam_log": {
+        "started_at": null,
+        "stopped_at": null,
+        "total_kirim": 0
+      }
+    },
+    "2026-05-21": {
+      "tanggal": "2026-05-21",
+      "hari": "Kamis",
+      "staf_piket": {
+        "id": "ichsan",
+        "nama": "Al-Ustadz Ichsan",
+        "wa": "628137273366"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-05-21 07:28:12",
+        "isi": "menginput data santri baru yang kurang"
+      },
+      "laporan_bakdiyah": {
+        "submitted": false,
+        "submitted_at": null,
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": null,
+        "stopped_at": null,
+        "total_kirim": 0
+      }
+    },
+    "2026-05-23": {
+      "tanggal": "2026-05-23",
+      "hari": "Sabtu",
+      "staf_piket": {
+        "id": "hafiy",
+        "nama": "Al-Ustadz Hafiy",
+        "wa": "6288215165490"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-05-23 07:04:18",
+        "isi": "menginput data santri kelas 6 pindahan dan memasukkan berkas santri baru"
+      },
+      "laporan_bakdiyah": {
+        "submitted": false,
+        "submitted_at": null,
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": null,
+        "stopped_at": null,
+        "total_kirim": 0
+      }
+    },
+    "2026-05-24": {
+      "tanggal": "2026-05-24",
+      "hari": "Ahad",
+      "staf_piket": {
+        "id": "ichsan",
+        "nama": "Al-Ustadz Ichsan",
+        "wa": "628137273366"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": false,
+        "submitted_at": null,
+        "isi": null
+      },
+      "laporan_bakdiyah": {
+        "submitted": true,
+        "submitted_at": "2026-05-24 12:01:35",
+        "selesai": [
+          "sudah menginput angket data santri baru yang kurang"
+        ],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": null,
+        "stopped_at": null,
+        "total_kirim": 0
+      }
+    },
+    "2026-05-25": {
+      "tanggal": "2026-05-25",
+      "hari": "Senin",
+      "staf_piket": {
+        "id": "raffal",
+        "nama": "Al-Ustadz Raffal",
+        "wa": "6281943567230"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-05-25 07:30:19",
+        "isi": "1. Pembersihan umum 2. Update bot wa pusdat untuk menambahkan fitur event validasi 3. Input data angket kelas 6"
+      },
+      "laporan_bakdiyah": {
+        "submitted": true,
+        "submitted_at": "2026-05-25 12:01:24",
+        "selesai": [
+          "melakukan pembersihan umum dan menambahkan event validasi data guru"
+        ],
+        "belum_selesai": [
+          "menyelesaikan input data angket kelas 6"
+        ]
+      },
+      "spam_log": {
+        "started_at": "2026-05-25 07:30:00",
+        "stopped_at": "2026-05-25 07:30:19",
+        "total_kirim": 1
+      }
+    },
+    "2026-05-26": {
+      "tanggal": "2026-05-26",
+      "hari": "Selasa",
+      "staf_piket": {
+        "id": "hafiy",
+        "nama": "Al-Ustadz Hafiy",
+        "wa": "6288215165490"
+      },
+      "status": "libur",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-05-26 07:45:46",
+        "isi": "(LIBUR — tidak ada agenda hari ini)"
+      },
+      "laporan_bakdiyah": {
+        "submitted": true,
+        "submitted_at": "2026-05-26 07:45:46",
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": "2026-05-26 07:30:00",
+        "stopped_at": "2026-05-26 07:45:46",
+        "total_kirim": 32
+      },
+      "libur_via": "proker"
+    },
+    "2026-05-27": {
+      "tanggal": "2026-05-27",
+      "hari": "Rabu",
+      "staf_piket": {
+        "id": "raffal",
+        "nama": "Al-Ustadz Raffal",
+        "wa": "6281943567230"
+      },
+      "status": "libur",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-05-27 07:13:17",
+        "isi": "(LIBUR — tidak ada agenda hari ini)"
+      },
+      "laporan_bakdiyah": {
+        "submitted": true,
+        "submitted_at": "2026-05-27 07:13:17",
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": null,
+        "stopped_at": null,
+        "total_kirim": 0
+      },
+      "libur_via": "lapharian"
+    },
+    "2026-05-28": {
+      "tanggal": "2026-05-28",
+      "hari": "Kamis",
+      "staf_piket": {
+        "id": "ichsan",
+        "nama": "Al-Ustadz Ichsan",
+        "wa": "628137273366"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-05-28 07:01:06",
+        "isi": "menginput data guru"
+      },
+      "laporan_bakdiyah": {
+        "submitted": true,
+        "submitted_at": "2026-05-28 13:15:31",
+        "selesai": [
+          "belum menginput data guru"
+        ],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": null,
+        "stopped_at": null,
+        "total_kirim": 0
+      }
+    },
+    "2026-05-30": {
+      "tanggal": "2026-05-30",
+      "hari": "Sabtu",
+      "staf_piket": {
+        "id": "hafiy",
+        "nama": "Al-Ustadz Hafiy",
+        "wa": "6288215165490"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-05-30 10:11:27",
+        "isi": "input angket kelas 6"
+      },
+      "laporan_bakdiyah": {
+        "submitted": true,
+        "submitted_at": "2026-05-30 12:01:28",
+        "selesai": [
+          "belum selesai input angket kelas 6"
+        ],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": null,
+        "stopped_at": null,
+        "total_kirim": 0
+      }
+    },
+    "2026-05-31": {
+      "tanggal": "2026-05-31",
+      "hari": "Ahad",
+      "staf_piket": {
+        "id": "ichsan",
+        "nama": "Al-Ustadz Ichsan",
+        "wa": "628137273366"
+      },
+      "status": "libur",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-05-31 07:46:56",
+        "isi": "(LIBUR — tidak ada agenda hari ini)"
+      },
+      "laporan_bakdiyah": {
+        "submitted": true,
+        "submitted_at": "2026-05-31 07:46:56",
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": "2026-05-31 07:30:00",
+        "stopped_at": "2026-05-31 07:47:00",
+        "total_kirim": 34
+      },
+      "libur_via": "lapharian"
+    },
+    "2026-06-01": {
+      "tanggal": "2026-06-01",
+      "hari": "Senin",
+      "staf_piket": {
+        "id": "raffal",
+        "nama": "Al-Ustadz Raffal",
+        "wa": "6281943567230"
+      },
+      "status": "libur",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-06-01 07:08:01",
+        "isi": "(LIBUR — tidak ada agenda hari ini)"
+      },
+      "laporan_bakdiyah": {
+        "submitted": true,
+        "submitted_at": "2026-06-01 07:08:01",
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": null,
+        "stopped_at": null,
+        "total_kirim": 0
+      },
+      "libur_via": "lapharian"
+    },
+    "2026-06-02": {
+      "tanggal": "2026-06-02",
+      "hari": "Selasa",
+      "staf_piket": {
+        "id": "hafiy",
+        "nama": "Al-Ustadz Hafiy",
+        "wa": "6288215165490"
+      },
+      "status": "libur",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-06-02 07:30:26",
+        "isi": "(LIBUR — tidak ada agenda hari ini)"
+      },
+      "laporan_bakdiyah": {
+        "submitted": true,
+        "submitted_at": "2026-06-02 07:30:26",
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": "2026-06-02 07:30:00",
+        "stopped_at": "2026-06-02 07:30:30",
+        "total_kirim": 1
+      },
+      "libur_via": "lapharian"
+    },
+    "2026-06-03": {
+      "tanggal": "2026-06-03",
+      "hari": "Rabu",
+      "staf_piket": {
+        "id": "raffal",
+        "nama": "Al-Ustadz Raffal",
+        "wa": "6281943567230"
+      },
+      "status": "libur",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-06-03 07:05:08",
+        "isi": "(LIBUR — tidak ada agenda hari ini)"
+      },
+      "laporan_bakdiyah": {
+        "submitted": true,
+        "submitted_at": "2026-06-03 07:05:08",
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": null,
+        "stopped_at": null,
+        "total_kirim": 0
+      },
+      "libur_via": "lapharian"
+    },
+    "2026-06-04": {
+      "tanggal": "2026-06-04",
+      "hari": "Kamis",
+      "staf_piket": {
+        "id": "ichsan",
+        "nama": "Al-Ustadz Ichsan",
+        "wa": "628137273366"
+      },
+      "status": "libur",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-06-04 08:11:56",
+        "isi": "(LIBUR — tidak ada agenda hari ini)"
+      },
+      "laporan_bakdiyah": {
+        "submitted": true,
+        "submitted_at": "2026-06-04 08:11:56",
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": "2026-06-04 07:30:00",
+        "stopped_at": "2026-06-04 08:12:00",
+        "total_kirim": 84
+      },
+      "libur_via": "lapharian"
+    },
+    "2026-06-06": {
+      "tanggal": "2026-06-06",
+      "hari": "Sabtu",
+      "staf_piket": {
+        "id": "hafiy",
+        "nama": "Al-Ustadz Hafiy",
+        "wa": "6288215165490"
+      },
+      "status": "libur",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-06-06 07:02:42",
+        "isi": "(LIBUR — tidak ada agenda hari ini)"
+      },
+      "laporan_bakdiyah": {
+        "submitted": true,
+        "submitted_at": "2026-06-06 07:02:42",
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": null,
+        "stopped_at": null,
+        "total_kirim": 0
+      },
+      "libur_via": "lapharian"
+    },
+    "2026-06-07": {
+      "tanggal": "2026-06-07",
+      "hari": "Ahad",
+      "staf_piket": {
+        "id": "ichsan",
+        "nama": "Al-Ustadz Ichsan",
+        "wa": "628137273366"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": false,
+        "submitted_at": null,
+        "isi": null
+      },
+      "laporan_bakdiyah": {
+        "submitted": false,
+        "submitted_at": null,
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": null,
+        "stopped_at": null,
+        "total_kirim": 0
+      }
+    },
+    "2026-06-08": {
+      "tanggal": "2026-06-08",
+      "hari": "Senin",
+      "staf_piket": {
+        "id": "raffal",
+        "nama": "Al-Ustadz Raffal",
+        "wa": "6281943567230"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-06-08 07:30:34",
+        "isi": "input data berkas santri baru dan input angket kelas 6 pindahan"
+      },
+      "laporan_bakdiyah": {
+        "submitted": true,
+        "submitted_at": "2026-06-08 12:27:26",
+        "selesai": [
+          "mencetak berkas santri: Akta, KK, Ijazah, Surat permohonan dan telah memasukkan berkas akta ke dalam arsip santri"
+        ],
+        "belum_selesai": [
+          "mencetak surat permohonan dan belum memasukkan berkas KK, Ijazah dan surat permohonan ke dalam arsip santri"
+        ]
+      },
+      "spam_log": {
+        "started_at": "2026-06-08 07:30:00",
+        "stopped_at": "2026-06-08 07:30:34",
+        "total_kirim": 2
+      }
+    },
+    "2026-06-09": {
+      "tanggal": "2026-06-09",
+      "hari": "Selasa",
+      "staf_piket": {
+        "id": "hafiy",
+        "nama": "Al-Ustadz Hafiy",
+        "wa": "6288215165490"
+      },
+      "status": "libur",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-06-09 12:00:25",
+        "isi": "(LIBUR — tidak ada agenda hari ini)"
+      },
+      "laporan_bakdiyah": {
+        "submitted": true,
+        "submitted_at": "2026-06-09 12:00:25",
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": "2026-06-09 07:30:00",
+        "stopped_at": null,
+        "total_kirim": 354
+      },
+      "libur_via": "lapharian"
+    },
+    "2026-06-10": {
+      "tanggal": "2026-06-10",
+      "hari": "Rabu",
+      "staf_piket": {
+        "id": "raffal",
+        "nama": "Al-Ustadz Raffal",
+        "wa": "6281943567230"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-06-10 07:30:38",
+        "isi": "input berkas santri baru ke arsip : ijazah, KK, surat pernyataan dan surat permohonan"
+      },
+      "laporan_bakdiyah": {
+        "submitted": false,
+        "submitted_at": null,
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": "2026-06-10 07:30:00",
+        "stopped_at": "2026-06-10 07:30:38",
+        "total_kirim": 2
+      }
+    },
+    "2026-06-11": {
+      "tanggal": "2026-06-11",
+      "hari": "Kamis",
+      "staf_piket": {
+        "id": "ichsan",
+        "nama": "Al-Ustadz Ichsan",
+        "wa": "628137273366"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-06-11 07:08:30",
+        "isi": "input data guru baru"
+      },
+      "laporan_bakdiyah": {
+        "submitted": false,
+        "submitted_at": null,
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": null,
+        "stopped_at": null,
+        "total_kirim": 0
+      }
+    },
+    "2026-06-13": {
+      "tanggal": "2026-06-13",
+      "hari": "Sabtu",
+      "staf_piket": {
+        "id": "hafiy",
+        "nama": "Al-Ustadz Hafiy",
+        "wa": "6288215165490"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": false,
+        "submitted_at": null,
+        "isi": null
+      },
+      "laporan_bakdiyah": {
+        "submitted": false,
+        "submitted_at": null,
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": "2026-06-13 07:30:00",
+        "stopped_at": null,
+        "total_kirim": 1980
+      }
+    },
+    "2026-06-14": {
+      "tanggal": "2026-06-14",
+      "hari": "Ahad",
+      "staf_piket": {
+        "id": "ichsan",
+        "nama": "Al-Ustadz Ichsan",
+        "wa": "628137273366"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": false,
+        "submitted_at": null,
+        "isi": null
+      },
+      "laporan_bakdiyah": {
+        "submitted": true,
+        "submitted_at": "2026-06-14 12:01:43",
+        "selesai": [
+          "belum menyambungkan database dari pc 1 ke pc 2"
+        ],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": "2026-06-14 07:30:00",
+        "stopped_at": null,
+        "total_kirim": 1223
+      }
+    },
+    "2026-06-15": {
+      "tanggal": "2026-06-15",
+      "hari": "Senin",
+      "staf_piket": {
+        "id": "raffal",
+        "nama": "Al-Ustadz Raffal",
+        "wa": "6281943567230"
+      },
+      "status": "libur",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-06-15 07:06:03",
+        "isi": "(LIBUR — tidak ada agenda hari ini)"
+      },
+      "laporan_bakdiyah": {
+        "submitted": true,
+        "submitted_at": "2026-06-15 07:06:03",
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": null,
+        "stopped_at": null,
+        "total_kirim": 0
+      },
+      "libur_via": "lapharian"
+    },
+    "2026-06-16": {
+      "tanggal": "2026-06-16",
+      "hari": "Selasa",
+      "staf_piket": {
+        "id": "hafiy",
+        "nama": "Al-Ustadz Hafiy",
+        "wa": "6288215165490"
+      },
+      "status": "libur",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-06-16 07:48:34",
+        "isi": "(LIBUR — tidak ada agenda hari ini)"
+      },
+      "laporan_bakdiyah": {
+        "submitted": true,
+        "submitted_at": "2026-06-16 07:48:34",
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": "2026-06-16 07:30:00",
+        "stopped_at": "2026-06-16 07:49:00",
+        "total_kirim": 38
+      },
+      "libur_via": "lapharian"
+    },
+    "2026-06-17": {
+      "tanggal": "2026-06-17",
+      "hari": "Rabu",
+      "staf_piket": {
+        "id": "raffal",
+        "nama": "Al-Ustadz Raffal",
+        "wa": "6281943567230"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-06-17 07:29:17",
+        "isi": "memasukkan berkas KK, surat permohonan dan pernyataan santri baru ke arsip santri"
+      },
+      "laporan_bakdiyah": {
+        "submitted": false,
+        "submitted_at": null,
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": null,
+        "stopped_at": null,
+        "total_kirim": 0
+      }
+    },
+    "2026-06-18": {
+      "tanggal": "2026-06-18",
+      "hari": "Kamis",
+      "staf_piket": {
+        "id": "ichsan",
+        "nama": "Al-Ustadz Ichsan",
+        "wa": "628137273366"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-06-18 07:36:20",
+        "isi": "merekap data santri kelas 6"
+      },
+      "laporan_bakdiyah": {
+        "submitted": false,
+        "submitted_at": null,
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": "2026-06-18 07:30:00",
+        "stopped_at": "2026-06-18 07:36:20",
+        "total_kirim": 13
+      }
+    },
+    "2026-06-20": {
+      "tanggal": "2026-06-20",
+      "hari": "Sabtu",
+      "staf_piket": {
+        "id": "hafiy",
+        "nama": "Al-Ustadz Hafiy",
+        "wa": "6288215165490"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-06-20 07:00:01",
+        "isi": "1. Memasukkan berkas santri baru 2. Memanggil santri yang belum ada berkasnya"
+      },
+      "laporan_bakdiyah": {
+        "submitted": false,
+        "submitted_at": null,
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": null,
+        "stopped_at": null,
+        "total_kirim": 0
+      }
+    },
+    "2026-06-21": {
+      "tanggal": "2026-06-21",
+      "hari": "Ahad",
+      "staf_piket": {
+        "id": "ichsan",
+        "nama": "Al-Ustadz Ichsan",
+        "wa": "628137273366"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-06-21 07:53:06",
+        "isi": "melengkapi data santri kelas 6"
+      },
+      "laporan_bakdiyah": {
+        "submitted": false,
+        "submitted_at": null,
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": "2026-06-21 07:30:00",
+        "stopped_at": "2026-06-21 07:53:06",
+        "total_kirim": 47
+      }
+    },
+    "2026-06-22": {
+      "tanggal": "2026-06-22",
+      "hari": "Senin",
+      "staf_piket": {
+        "id": "raffal",
+        "nama": "Al-Ustadz Raffal",
+        "wa": "6281943567230"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-06-22 07:06:13",
+        "isi": "update stambuk santri baru dan memasukkan berkas santri ke bantex"
+      },
+      "laporan_bakdiyah": {
+        "submitted": false,
+        "submitted_at": null,
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": null,
+        "stopped_at": null,
+        "total_kirim": 0
+      }
+    },
+    "2026-06-23": {
+      "tanggal": "2026-06-23",
+      "hari": "Selasa",
+      "staf_piket": {
+        "id": "hafiy",
+        "nama": "Al-Ustadz Hafiy",
+        "wa": "6288215165490"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": false,
+        "submitted_at": null,
+        "isi": null
+      },
+      "laporan_bakdiyah": {
+        "submitted": true,
+        "submitted_at": "2026-06-23 12:04:14",
+        "selesai": [
+          "telah memotong stambuk santri baru"
+        ],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": null,
+        "stopped_at": null,
+        "total_kirim": 0
+      }
+    },
+    "2026-06-24": {
+      "tanggal": "2026-06-24",
+      "hari": "Rabu",
+      "staf_piket": {
+        "id": "raffal",
+        "nama": "Al-Ustadz Raffal",
+        "wa": "6281943567230"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-06-24 07:28:12",
+        "isi": "menempelkan stiker arsip santri yang terupdate"
+      },
+      "laporan_bakdiyah": {
+        "submitted": false,
+        "submitted_at": null,
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": null,
+        "stopped_at": null,
+        "total_kirim": 0
+      }
+    },
+    "2026-06-25": {
+      "tanggal": "2026-06-25",
+      "hari": "Kamis",
+      "staf_piket": {
+        "id": "ichsan",
+        "nama": "Al-Ustadz Ichsan",
+        "wa": "628137273366"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-06-25 07:03:58",
+        "isi": "melengkapi data santri kelas 6"
+      },
+      "laporan_bakdiyah": {
+        "submitted": false,
+        "submitted_at": null,
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": null,
+        "stopped_at": null,
+        "total_kirim": 0
+      }
+    },
+    "2026-06-27": {
+      "tanggal": "2026-06-27",
+      "hari": "Sabtu",
+      "staf_piket": {
+        "id": "hafiy",
+        "nama": "Al-Ustadz Hafiy",
+        "wa": "6288215165490"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-06-27 07:02:50",
+        "isi": "menempelkan stiker arsip santri terupdate"
+      },
+      "laporan_bakdiyah": {
+        "submitted": true,
+        "submitted_at": "2026-06-27 12:13:34",
+        "selesai": [
+          "belum selesei menempelkan striker arsip santri terupdate"
+        ],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": null,
+        "stopped_at": null,
+        "total_kirim": 0
+      }
+    },
+    "2026-06-28": {
+      "tanggal": "2026-06-28",
+      "hari": "Ahad",
+      "staf_piket": {
+        "id": "ichsan",
+        "nama": "Al-Ustadz Ichsan",
+        "wa": "628137273366"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-06-28 07:18:46",
+        "isi": "melengkapi data santri kelas 6"
+      },
+      "laporan_bakdiyah": {
+        "submitted": false,
+        "submitted_at": null,
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": null,
+        "stopped_at": null,
+        "total_kirim": 0
+      }
+    },
+    "2026-06-29": {
+      "tanggal": "2026-06-29",
+      "hari": "Senin",
+      "staf_piket": {
+        "id": "raffal",
+        "nama": "Al-Ustadz Raffal",
+        "wa": "6281943567230"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-06-29 07:39:32",
+        "isi": "rombak arsip berkas santri"
+      },
+      "laporan_bakdiyah": {
+        "submitted": false,
+        "submitted_at": null,
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": "2026-06-29 07:30:00",
+        "stopped_at": "2026-06-29 07:39:32",
+        "total_kirim": 20
+      }
+    },
+    "2026-06-30": {
+      "tanggal": "2026-06-30",
+      "hari": "Selasa",
+      "staf_piket": {
+        "id": "hafiy",
+        "nama": "Al-Ustadz Hafiy",
+        "wa": "6288215165490"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-06-30 08:03:49",
+        "isi": "rombak arsip santri perkelas"
+      },
+      "laporan_bakdiyah": {
+        "submitted": true,
+        "submitted_at": "2026-06-30 12:08:50",
+        "selesai": [
+          "belum selesai rombak arsip santri perkelas"
+        ],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": null,
+        "stopped_at": null,
+        "total_kirim": 0
+      }
+    },
+    "2026-07-01": {
+      "tanggal": "2026-07-01",
+      "hari": "Rabu",
+      "staf_piket": {
+        "id": "raffal",
+        "nama": "Al-Ustadz Raffal",
+        "wa": "6281943567230"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-07-01 07:06:05",
+        "isi": "update arsip berkas santri lama"
+      },
+      "laporan_bakdiyah": {
+        "submitted": false,
+        "submitted_at": null,
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": null,
+        "stopped_at": null,
+        "total_kirim": 0
+      }
+    },
+    "2026-07-02": {
+      "tanggal": "2026-07-02",
+      "hari": "Kamis",
+      "staf_piket": {
+        "id": "ichsan",
+        "nama": "Al-Ustadz Ichsan",
+        "wa": "628137273366"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-07-02 07:30:57",
+        "isi": "melengkapi data santri kelas 6"
+      },
+      "laporan_bakdiyah": {
+        "submitted": false,
+        "submitted_at": null,
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": "2026-07-02 07:30:00",
+        "stopped_at": "2026-07-02 07:30:57",
+        "total_kirim": 2
+      }
+    },
+    "2026-07-04": {
+      "tanggal": "2026-07-04",
+      "hari": "Sabtu",
+      "staf_piket": {
+        "id": "hafiy",
+        "nama": "Al-Ustadz Hafiy",
+        "wa": "6288215165490"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-07-04 07:17:41",
+        "isi": "merombak berkas arsip santri perkelas"
+      },
+      "laporan_bakdiyah": {
+        "submitted": false,
+        "submitted_at": null,
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": null,
+        "stopped_at": null,
+        "total_kirim": 0
+      }
+    },
+    "2026-07-05": {
+      "tanggal": "2026-07-05",
+      "hari": "Ahad",
+      "staf_piket": {
+        "id": "ichsan",
+        "nama": "Al-Ustadz Ichsan",
+        "wa": "628137273366"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": false,
+        "submitted_at": null,
+        "isi": null
+      },
+      "laporan_bakdiyah": {
+        "submitted": false,
+        "submitted_at": null,
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": null,
+        "stopped_at": null,
+        "total_kirim": 0
+      }
+    },
+    "2026-07-06": {
+      "tanggal": "2026-07-06",
+      "hari": "Senin",
+      "staf_piket": {
+        "id": "raffal",
+        "nama": "Al-Ustadz Raffal",
+        "wa": "6281943567230"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": false,
+        "submitted_at": null,
+        "isi": null
+      },
+      "laporan_bakdiyah": {
+        "submitted": true,
+        "submitted_at": "2026-07-06 12:08:03",
+        "selesai": [
+          "menempelkan stiker kelas 3B - 3E dan membagikan arsip biodata kelas 4 sampai 5 yang ada di arsip bagian C1-18"
+        ],
+        "belum_selesai": [
+          "menempelkan stiker baru untuk kelas 4-6 dan belum memasukkan nya ke arsip berkas santri"
+        ]
+      },
+      "spam_log": {
+        "started_at": "2026-07-06 07:30:00",
+        "stopped_at": null,
+        "total_kirim": 450
+      }
+    },
+    "2026-07-07": {
+      "tanggal": "2026-07-07",
+      "hari": "Selasa",
+      "staf_piket": {
+        "id": "hafiy",
+        "nama": "Al-Ustadz Hafiy",
+        "wa": "6288215165490"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-07-07 07:31:35",
+        "isi": "merombak berkas again santri perkelas, membuat blank pengecekan data ijazah kelas 6"
+      },
+      "laporan_bakdiyah": {
+        "submitted": true,
+        "submitted_at": "2026-07-07 12:01:21",
+        "selesai": [
+          "telah merapikan arsip kelas 3 dan menempelkan sticker kelas 4B & 4C"
+        ],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": "2026-07-07 07:30:00",
+        "stopped_at": "2026-07-07 07:31:35",
+        "total_kirim": 4
+      }
+    },
+    "2026-07-08": {
+      "tanggal": "2026-07-08",
+      "hari": "Rabu",
+      "staf_piket": {
+        "id": "raffal",
+        "nama": "Al-Ustadz Raffal",
+        "wa": "6281943567230"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-07-08 07:21:59",
+        "isi": "menempelkan stiker arsip santri yang baru"
+      },
+      "laporan_bakdiyah": {
+        "submitted": true,
+        "submitted_at": "2026-07-08 12:02:16",
+        "selesai": [
+          "menempelkan stiker dan merekap + mengecek berkas santri kelas 4C-4E"
+        ],
+        "belum_selesai": [
+          "mengecek berkas santri kelas 4B - kelas 5&6"
+        ]
+      },
+      "spam_log": {
+        "started_at": null,
+        "stopped_at": null,
+        "total_kirim": 0
+      }
+    },
+    "2026-07-09": {
+      "tanggal": "2026-07-09",
+      "hari": "Kamis",
+      "staf_piket": {
+        "id": "ichsan",
+        "nama": "Al-Ustadz Ichsan",
+        "wa": "628137273366"
+      },
+      "status": "normal",
+      "proker_pagi": {
+        "submitted": true,
+        "submitted_at": "2026-07-09 07:03:26",
+        "isi": "melengkapi data santri kelas 6"
+      },
+      "laporan_bakdiyah": {
+        "submitted": false,
+        "submitted_at": null,
+        "selesai": [],
+        "belum_selesai": []
+      },
+      "spam_log": {
+        "started_at": null,
+        "stopped_at": null,
+        "total_kirim": 0
+      }
+    }
+  }
+}

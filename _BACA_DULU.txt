@@ -1,0 +1,28 @@
+==============================================================
+  PAKET SIAP TIMPA — Update IP Dashboard
+  192.168.100.21:3000  →  192.178.1.13:3000
+==============================================================
+
+ISI PAKET (2 file yang berubah):
+  1. pusdat-config.js         → letakkan di ROOT project (sejajar config.js)
+  2. CARA_TIMPA_v15.md        → letakkan di ROOT project (dokumentasi)
+
+CARA PAKAI:
+  1. Hentikan bot WhatsApp (Ctrl+C atau stop service).
+  2. Copy 2 file di atas ke folder project Anda, TIMPA file lama.
+  3. Jalankan ulang bot:
+        node index.js
+       atau
+        pm2 restart autoresbot
+  4. Buka http://192.178.1.13:3000  di browser → dashboard tampil.
+
+YANG DIUBAH (ringkas):
+  • pusdat-config.js  baris 50:
+      DASHBOARD_PUBLIC_URL: 'http://192.178.1.13:3000'
+  • CARA_TIMPA_v15.md baris 28-30:
+      URL contoh dashboard sudah diperbarui.
+
+CATATAN:
+  • File lainnya TIDAK perlu diganti — tidak ada referensi IP lain.
+  • Pastikan port 3000 terbuka & komputer host memang ber-IP 192.178.1.13.
+==============================================================

@@ -1,0 +1,39 @@
+{
+  "events": [
+    {
+      "id": "evt_mpkqh9fh_qdcgiu",
+      "title": "Validasi Data Guru 2026",
+      "description": "Mohon para ustadz untuk memvalidasi (memeriksa & memperbarui jika perlu) data pribadi masing-masing.",
+      "createdBy": "Admin Pusdat",
+      "createdAt": "2026-05-25T04:56:07.421Z",
+      "startAt": "2026-05-25T04:55:00.000Z",
+      "deadline": "2026-05-25T17:00:00.000Z",
+      "extensions": [],
+      "status": "active",
+      "requiredFields": [
+        "Nama Lengkap",
+        "Tempat Lahir",
+        "Tanggal Lahir",
+        "Jenis Kelamin",
+        "Status",
+        "Bagian",
+        "No HP",
+        "No KTP",
+        "NUPTK",
+        "EMIS",
+        "Eprimer Pondok"
+      ],
+      "submissions": {
+        "13971942": {
+          "stambuk": 13971942,
+          "nama": "Muhammad Raffal 'Aris",
+          "validatedAt": "2026-05-25T04:56:59.250Z",
+          "channel": "wa",
+          "note": "(via WhatsApp bot)",
+          "fieldsConfirmed": null,
+          "submitCount": 1
+        }
+      }
+    }
+  ]
+}
